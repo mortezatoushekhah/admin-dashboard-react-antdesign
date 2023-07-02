@@ -6,7 +6,7 @@ This project encompasses various essential components such as headers, footers, 
 
 Feel free to explore this project, delve into the codebase, and witness the power of React and Ant Design as they come together to create a visually stunning and highly functional dashboard.
 
-Check demo:
+Check demo: https://admin-dashboard-react-antdesign.netlify.app/
 
 Source code: https://github.com/mortezatoushekhah/admin-dashboard-react-antdesign
 
