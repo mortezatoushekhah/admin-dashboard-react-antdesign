@@ -1,4 +1,4 @@
-Welcome to my project on GitHub! In this repository, I present a dynamic React Dashboard that leverages the powerful Ant Design UI Components library. The aim of this project is to provide an intuitive and visually appealing user interface for displaying key statistics, charts, and tables in a dashboard format.
+In this repository, I present a dynamic React Dashboard that leverages the powerful Ant Design UI Components library. The aim of this project is to provide an intuitive and visually appealing user interface for displaying key statistics, charts, and tables in a dashboard format.
 
 By utilizing Ant Design's versatile sidebar, I have created a seamless navigation experience, allowing users to effortlessly access different sections of the dashboard. The integration of Antd Tables, combined with the utilization of a fake API provided by https://dummyjson.com/, ensures that the dashboard remains up-to-date with realistic data.
 
